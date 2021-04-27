@@ -5,3 +5,6 @@ Cherries
 Grapes
 Mango
 Oranges
+
+Papaya
+WaterMelon
